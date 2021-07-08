@@ -1,0 +1,20 @@
+Workplan for Internship
+
+Objectives of Internship
+	- Exploring TiAl based structural metal alloys
+	- Understanding multi-phase internal microstructures
+	- Using FEM and pre-processing to perform FEA for RVE
+
+Primary Work Duties:
+	- Object Generation through Scripting (With Abaqus):
+		- Allow for precise geometric definition
+			- Reduce imprecision and uncertainty
+		- Extending Object Generation to sufficiently large spaces
+		- Modelling discrete objects 
+	- Mesh Generation for FEA
+	- Results Generation and Analysis?
+
+Intended Learning Outcomes:
+	- Workflow in research environments
+	- Technical Report Handling and Writing
+	- Literature Review Process, verification and replication
